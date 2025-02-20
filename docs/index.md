@@ -1,7 +1,9 @@
-------
+---
+title: "My Simple Site"
+description: "A minimal website using GitHub Pages and Markdown"
 layout: default
-title: "My website"
-------
+---
+
 
 # My website
 
