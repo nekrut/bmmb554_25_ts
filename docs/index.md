@@ -1,3 +1,8 @@
+------
+layout: default
+title: "My website"
+------
+
 # My website
 
 My name is AN
